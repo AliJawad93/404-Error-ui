@@ -1,4 +1,4 @@
-# 404 ERROR PAGES FLUTTER
+# 404 ERROR PAGES ANIMATION FLUTTER
 <p align="center">
 <h1>Page 1<h1>
 <img src="https://user-images.githubusercontent.com/91384732/176659107-b70a08fc-65d5-4970-a8b0-ea5b5689f00b.png" width="300" height="600" />
